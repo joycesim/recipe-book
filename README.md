@@ -1,11 +1,5 @@
-ustwobies love food, so they Open Source their recipes.
+A place to keep all modified recipes. 
 
-This will stay empty for a while, but the idea is self-publishing a
-book at some point and donate benefits to charity.
+At some point, it would be nice to have a search for recipes using available items in fridge/pantry. 
 
-Or it will only hold a couple of recipes and no one will pay any
-attention to it.
-
-Exactly as any other Open Source project out there.
-
-JFDI.
+This is modified/fork from ustwo - Thank you! 
