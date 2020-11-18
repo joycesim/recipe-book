@@ -8,7 +8,7 @@ Recipes to add:
 * Brownies
 * Tepsi
 * Short-crust pastry (adapted from nytimes)
-* Recipes from home
+* Recipes from home: Sim Family Grandma's smoked chicken and meatballs (Bak Khng - Hokkien)
 
 To-do:
 * Categories with ingredients tag
