@@ -40,11 +40,15 @@ Dressing
 
 Slice/chop everything up.
 
-Use your food processor to shred everything if possible - saves time and effort.
+Decorate your plate as you like. I added mandarin slices as garnish.
 
-Make the dressing - the proportions is the same as every other dressing - add/more or less to your liking - it should tast balance
+Tip: To save time and effort if you are making a big salad, use your food processor to shred everything.
 
-![Loushen after tossing](./images/loushenafter.jpg "Yums")
+Make the dressing - the proportions is the same as every other dressing - add/more or less to your liking - it should taste balance.
+
+Get your chopsticks ready to toss the salad up high with everyone at the table while saying all the great things that will happen in this coming year!
+
+![Loushen after tossing](./images/loushenafter.jpg "After tossing!")
 
 ## Allergies and dietary requirements
 
