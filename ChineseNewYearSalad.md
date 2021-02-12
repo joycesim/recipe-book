@@ -1,5 +1,7 @@
 # Lou Shen - Malaysian Chinese new year salad 
 
+![Loushen](./images/loushen.jpg "Vegetarian with mango")
+
 ## Intro
 
 A delicious salad to ring in the new year! It typically has raw fish to signify abundance in the new year and tossed by everyone at the table as high as possible for goodluck. 
@@ -18,7 +20,7 @@ A delicious salad to ring in the new year! It typically has raw fish to signify 
 * Cornflakes/Crunchy crackers bits
 * Chopped roasted peanuts 
 * Roasted sesame seeds
-Note: Anything to make the salad colorful is a good thing
+Note: Anything to make the salad colorful is a good thing. None of the above are necessary but are what makes the traditional salad. You can mix and match with whatever you have. I made one this year with what I had in the fridge: watermelon radish, lettuce, hakurei turnips, cucumber, red onion, mango, easter egg radish and pickled shallots.
 
 Dressing
 * Sour Plum sauce
@@ -41,6 +43,8 @@ Slice/chop everything up.
 Use your food processor to shred everything if possible - saves time and effort.
 
 Make the dressing - the proportions is the same as every other dressing - add/more or less to your liking - it should tast balance
+
+![Loushen after tossing](./images/loushenafter.jpg "Yums")
 
 ## Allergies and dietary requirements
 
